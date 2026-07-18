@@ -1,179 +1,292 @@
-<h1 align="center">Hi 👋, I'm Abdul Mannan</h1>
+<!-- ===================================================== -->
+<!--                GITHUB PROFILE README                  -->
+<!--        Replace mannan-python-developer where needed             -->
+<!-- ===================================================== -->
 
-<h3 align="center">
-Backend Engineer • Python Developer • DevOps Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-Building scalable backend systems, cloud-native applications, and production-ready infrastructure.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Abdul%20Mannan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Python%20Backend%20Engineer%20|%20FastAPI%20|%20DevOps%20|%20Kubernetes&descAlignY=60"/>
+
+# Hi 👋 I'm Abdul Mannan
+
+### Python Backend Engineer • FastAPI Developer • Cloud & DevOps Enthusiast
+
+<p>
+Building scalable backend systems, cloud-native infrastructure, and production-ready APIs.
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=FastAPI+Developer;Django+Developer;Kubernetes+%26+Docker;REST+API+Architect;Distributed+Systems;PostgreSQL+%7C+Redis+%7C+Celery;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=mannan-python-developer&style=for-the-badge&color=2563eb"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💻 About Me
 
-I'm a Python Backend Engineer passionate about designing scalable APIs, distributed systems, and cloud-native applications.
+```python
+class AbdulMannan:
 
-Currently, I'm building production-grade platforms using:
+    name = "Abdul Mannan"
 
-- ⚡ FastAPI
-- 🐍 Python
-- 🐘 PostgreSQL
-- ☸️ Kubernetes (K3s)
-- 🐳 Docker
-- 🔥 Redis
-- 🐇 RabbitMQ
-- 🌐 REST APIs
-- 🚀 CI/CD Pipelines
+    role = "Python Backend Engineer"
 
-I enjoy solving complex backend problems, optimizing performance, and deploying reliable systems.
+    location = "Pakistan 🇵🇰"
+
+    languages = [
+        "Python",
+        "SQL"
+    ]
+
+    backend = [
+        "FastAPI",
+        "Django",
+        "SQLAlchemy",
+        "Alembic",
+        "REST API",
+        "WebSockets"
+    ]
+
+    databases = [
+        "PostgreSQL",
+        "MySQL",
+        "SQLite",
+        "Redis"
+    ]
+
+    devops = [
+        "Docker",
+        "Kubernetes",
+        "Helm",
+        "NGINX",
+        "HAProxy",
+        "Prometheus",
+        "Grafana",
+        "Longhorn",
+        "MinIO"
+    ]
+
+    messaging = [
+        "RabbitMQ",
+        "Celery",
+        "Celery Beat"
+    ]
+
+    currently_building = "GrabNGo"
+
+    motto = "Build reliable software that scales."
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🔥 Building **GrabNGo**
+- ☸️ Kubernetes Infrastructure
+- ⚡ High Performance FastAPI APIs
+- 🐳 Docker & Cloud Native Applications
+- 📈 Monitoring with Prometheus & Grafana
+- 🚀 Production DevOps
 
 ---
 
 # 🛠 Tech Stack
 
+<div align="center">
+
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
+<img src="https://skillicons.dev/icons?i=python"/>
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
-![Alembic](https://img.shields.io/badge/Alembic-black?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=fastapi,django"/>
 
----
+### Database
 
-### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+### DevOps
 
----
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx)
-![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
----
-
-### Async & Messaging
-
-- Redis
-- RabbitMQ
-- Celery
-- Celery Beat
-- WebSockets
-- HTTPX
-
----
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,bash,git,github"/>
 
 ### AI / ML
 
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- OpenCV
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Project
 
+<div align="center">
+
 ## GrabNGo
 
-A modern hostel management ecosystem that connects hostel owners with tenants.
+**Production-Ready Cloud-Native Backend Platform**
 
-### Features
+*A scalable backend platform built with modern Python technologies and deployed on Kubernetes using production-grade DevOps practices.*
 
-- Hostel Management
-- Room Management
-- Bed Allocation
-- Tenant Verification
-- Booking System
-- Digital Check-In
-- QR / Unique Code Verification
-- Payment Management
-- Admin Dashboard
-- Notification System
-- REST API
-- Object Storage (MinIO)
-- Kubernetes Deployment
+</div>
 
-**Backend**
+### ✨ Highlights
 
-- FastAPI
-- PostgreSQL
-- Redis
-- Celery
-- SQLAlchemy
+- High-performance REST APIs with FastAPI
+- Asynchronous architecture using SQLAlchemy
+- Background task processing with Celery & RabbitMQ
+- PostgreSQL with Alembic database migrations
+- Object storage powered by MinIO
+- Containerized using Docker
+- Kubernetes (K3s) production deployment
+- Automated deployments with Helm
+- High-availability ingress using HAProxy & NGINX
+- Monitoring with Prometheus & Grafana
+- Persistent storage using Longhorn
+- Multi-environment infrastructure (Development, QA & Production)
 
-**Infrastructure**
+### 🏗️ Backend Stack
 
-- Docker
-- Kubernetes (K3s)
-- Helm
-- HAProxy
-- Prometheus
-- Grafana
-- Longhorn
-- MinIO
+```text
+Python
+FastAPI
+SQLAlchemy (Async)
+Alembic
+PostgreSQL
+Redis
+Celery
+RabbitMQ
+MinIO
+```
+
+### ☁️ DevOps & Infrastructure
+
+```text
+Docker
+Kubernetes (K3s)
+Helm
+HAProxy
+NGINX Ingress
+Prometheus
+Grafana
+Longhorn
+GitHub Actions
+Linux
+```
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannan-python-developer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan-python-developer&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mannan-python-developer&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 🌎 Connect With Me
+# 📈 Contribution Graph
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 📧 Email: YOUR_EMAIL
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mannan-python-developer&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
+# 🏆 GitHub Trophies
 
-### Thanks for visiting! ⭐
+<div align="center">
 
-If you like my work, consider giving a ⭐ to my repositories.
+<img src="https://github-profile-trophy.vercel.app/?username=mannan-python-developer&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-</p>
+</div>
+
+---
+
+# ⚡ Development Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannan-python-developer&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📅 Productivity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannan-python-developer&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mannan-python-developer&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | https://www.linkedin.com/in/mannan-python-developer/ |
+| 🌐 Portfolio | https://www.abdul-mannan.com/ |
+| 📧 Email | c6mannan@gmail.com |
+
+</div>
+
+---
+
+# ☕ Fun Facts
+
+```text
+⚡ I enjoy solving backend architecture challenges.
+
+🚀 I love building cloud-native applications.
+
+🐳 Docker + Kubernetes is my happy place.
+
+📚 Always learning new technologies.
+
+💡 Clean architecture > quick hacks.
+```
+
+---
+
+<div align="center">
+
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/mannan-python-developer/mannan-python-developer/output/github-contribution-grid-snake-dark.svg"/>
+
+> Enable this with the **Platane/snk** GitHub Action after creating your profile repository.
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my projects, don't forget to star them!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06b6d4,50:2563eb,100:0f172a"/>
+
+</div>
