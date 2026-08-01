@@ -252,9 +252,9 @@ Linux
 
 ## 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/mannan-python-developer/mannan-python-developer/output/github-contribution-grid-snake-dark.svg"/>
-
-> Enable this with the **Platane/snk** GitHub Action after creating your profile repository.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mannan-python-developer/mannan-python-developer/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 </div>
 
