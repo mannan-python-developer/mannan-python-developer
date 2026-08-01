@@ -82,7 +82,6 @@ class AbdulMannan:
 
 # 🚀 Current Focus
 
-- 🔥 Building **GrabNGo**
 - ☸️ Kubernetes Infrastructure
 - ⚡ High Performance FastAPI APIs
 - 🐳 Docker & Cloud Native Applications
@@ -177,18 +176,6 @@ Linux
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannan-python-developer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan-python-developer&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -204,16 +191,6 @@ Linux
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannan-python-developer&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mannan-python-developer&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -249,7 +226,7 @@ Linux
 |----------|------|
 | 💼 LinkedIn | https://www.linkedin.com/in/mannan-python-developer/ |
 | 🌐 Portfolio | https://www.abdul-mannan.com/ |
-| 📧 Email | c6mannan@gmail.com |
+| 📧 Email | mannanforge@gmail.com |
 
 </div>
 
