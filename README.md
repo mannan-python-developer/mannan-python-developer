@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
 <!--                GITHUB PROFILE README                  -->
-<!--        Replace mannan-python-developer where needed             -->
+<!--        Replace mannan-software-engineer where needed             -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 # Hi 👋 I'm Abdul Mannan
 
-### Python Backend Engineer • FastAPI Developer • Cloud & DevOps Enthusiast
+### Senior Software Engineer • Backend Developer • Cloud & DevOps Enthusiast
 
 <p>
 Building scalable backend systems, cloud-native infrastructure, and production-ready APIs.
@@ -17,7 +17,7 @@ Building scalable backend systems, cloud-native infrastructure, and production-r
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=FastAPI+Developer;Django+Developer;Kubernetes+%26+Docker;REST+API+Architect;Distributed+Systems;PostgreSQL+%7C+Redis+%7C+Celery;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=mannan-python-developer&style=for-the-badge&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=mannan-software-engineer&style=for-the-badge&color=2563eb"/>
 
 </div>
 
@@ -30,7 +30,7 @@ class AbdulMannan:
 
     name = "Abdul Mannan"
 
-    role = "Python Backend Engineer"
+    role = "Senior Software Engineer"
 
     location = "Pakistan 🇵🇰"
 
@@ -180,7 +180,7 @@ Linux
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mannan-python-developer&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mannan-software-engineer&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -190,7 +190,7 @@ Linux
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mannan-python-developer&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mannan-software-engineer&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -200,7 +200,7 @@ Linux
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannan-python-developer&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannan-software-engineer&theme=tokyonight"/>
 
 </div>
 
@@ -210,9 +210,9 @@ Linux
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannan-python-developer&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannan-software-engineer&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mannan-python-developer&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mannan-software-engineer&theme=tokyonight"/>
 
 </div>
 
@@ -224,7 +224,7 @@ Linux
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | https://www.linkedin.com/in/mannan-python-developer/ |
+| 💼 LinkedIn | https://www.linkedin.com/in/mannan-software-engineer/ |
 | 🌐 Portfolio | https://www.abdul-mannan.com/ |
 | 📧 Email | mannanforge@gmail.com |
 
@@ -253,7 +253,7 @@ Linux
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mannan-python-developer/mannan-python-developer/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/mannan-software-engineer/mannan-software-engineer/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 </div>
